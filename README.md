@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome%20to-nl-MJ's%20Github&reversal=false&fontSize=70&fontAlignY=30&animation=fadeIn)
 
-## favorite tools and technologies ⚙️
+## Favorite tools and technologies ⚙️
 
 <table>
   <tr>
@@ -13,30 +13,30 @@
       <br>Typescript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
       <br>Nextjs
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="icon" />
-      <br>Github
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
       <br>HTML
     </td>
- </tr>
- <tr>
- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="icon" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+ </tr>
+ <tr>
+ <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
       <br>Tailwind
+    </td>
+ <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="icon" />
+      <br>Github
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="icon" />
@@ -60,8 +60,8 @@
 ## Github stats 📊
 
 <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="장명주's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=wkdaudwn11&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="장명주's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdaudwn11&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MJ's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=wkdaudwn11&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdaudwn11&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>
 
 <div>
